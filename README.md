@@ -6,6 +6,9 @@ Creating a new branch is quick & simple. delete, it is a bug here.
 
 [image](https://github.com/mynameiszhangyong/gitskills/blob/master/an%20image.jpg)
 
+# From here
+![image](http://swiftist.org/uploads/attachment/file/49/tanita_counter.png)
+
 
 
 
